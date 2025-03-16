@@ -1,0 +1,2 @@
+# yazilim-sozluk
+ 
