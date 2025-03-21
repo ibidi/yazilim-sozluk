@@ -73,7 +73,7 @@ export function Footer() {
 
         <div className="mt-8 border-t pt-4">
           <p className="text-center text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Yazılım Sözlük. Tüm hakları saklıdır.
+            Powered by @ibidi © {new Date().getFullYear()} Yazılım Sözlük. Tüm hakları saklıdır.
           </p>
         </div>
       </div>
